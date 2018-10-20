@@ -150,7 +150,7 @@ Camel K supports multiple languages for writing integrations:
 | Kotlin			| Kotlin Script `.kts` files are supported (experimental).
 |=======================
 
-More information about supported languages is provided in the link:docs/languages.adoc[lanuguages guide].
+More information about supported languages is provided in the link:docs/languages.adoc[languages guide].
 
 Integrations written in different languages are provided in the link:/runtime/examples[examples] directory.
 

@@ -10,7 +10,7 @@ Camel K supports integration written in the following languages:name: value
 | XML           | Integrations written in plain XML DSL are supported (Spring XML or Blueprint not supported).
 | Groovy        | Groovy `.groovy` files are supported (experimental).
 | JavaScript    | JavaScript `.js` files are supported (experimental).
-| Kotlin        | Kotlin Script `.kts` files are supported (experimental).
+| Kotlin        | Kotlin `.kts` files are supported (experimental).
 |=======================
 
 [WARNING]
@@ -271,7 +271,7 @@ rest {
 
 === JavaScript
 
-integration written in Kotlin looks very similar to a Java one:
+The integration written in JavaScript looks very similar to a Java one:
 
 [source,js]
 ----
